@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057709528701",
+    "project_id": "censusapp-1fbad",
+    "storage_bucket": "censusapp-1fbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057709528701:android:3402d96d6b0838dc8cc314",
+        "android_client_info": {
+          "package_name": "com.example.censusap_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057709528701-smg3qmd25uk5nqcg5qaupj3j0tkuajge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdd1Gb7BW496JS7qJh9Hur-5YHnLyjpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057709528701-smg3qmd25uk5nqcg5qaupj3j0tkuajge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
